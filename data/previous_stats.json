@@ -3,20 +3,26 @@
   "place_id": 76195696151145,
   "universe_id": 9748409485,
   "active_players": 17,
-  "total_visits": 66185,
+  "total_visits": 66279,
   "favorites": 148,
   "max_players_per_server": 80,
   "likes": 174,
-  "public_servers": 1,
+  "public_servers": 2,
   "players_in_listed_servers": 17,
   "pages_checked": 1,
   "pagination_complete": true,
   "server_list": [
     {
-      "server_id": "921b0494-abc3-4528-a339-337c295352d9",
-      "players": 17,
+      "server_id": "3f4c62b1-ef49-40c7-a0a5-05f7793cb68a",
+      "players": 14,
       "max_players": 80,
-      "occupancy": 21.25
+      "occupancy": 17.5
+    },
+    {
+      "server_id": "e6fcb5ca-299d-4940-9395-36d8fb818ce0",
+      "players": 3,
+      "max_players": 80,
+      "occupancy": 3.75
     }
   ]
 }
