@@ -2,27 +2,27 @@
   "game_name": "Roleplay Valoria [Uji Beta] ",
   "place_id": 76195696151145,
   "universe_id": 9748409485,
-  "active_players": 47,
-  "total_visits": 69135,
-  "favorites": 151,
+  "active_players": 23,
+  "total_visits": 69492,
+  "favorites": 152,
   "max_players_per_server": 80,
-  "likes": 176,
+  "likes": 177,
   "public_servers": 2,
-  "players_in_listed_servers": 48,
+  "players_in_listed_servers": 21,
   "pages_checked": 1,
   "pagination_complete": true,
   "server_list": [
     {
       "server_id": "c3efd23f-6815-409b-9542-0c9639048dad",
-      "players": 46,
+      "players": 15,
       "max_players": 80,
-      "occupancy": 57.5
+      "occupancy": 18.75
     },
     {
-      "server_id": "2ee8ff12-0aeb-484b-a783-613c64e72740",
-      "players": 2,
+      "server_id": "b1b8c669-7a0d-45f4-97b8-2bc57b422682",
+      "players": 6,
       "max_players": 80,
-      "occupancy": 2.5
+      "occupancy": 7.5
     }
   ]
 }
